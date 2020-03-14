@@ -1,0 +1,8 @@
+
+.nav{
+      grid-area: h;
+      background-color: lightcoral;
+}
+.nav img{
+      width: 100px;
+}

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f094f14-a82f-4bcd-88b9-9f58ce127a58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Music/Music.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/News/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Posts/MyPosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Posts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Posts/Post/NewPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Posts/Post/NewPost.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profileinfo/Profileinfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profileinfo/Profileinfo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Settings/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YNSWdBHkcNg4K4TW2y919xxdqw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Profile/Profileinfo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Profile/Posts/Post" />
+      <recent name="$PROJECT_DIR$/src/Components/Profile" />
+      <recent name="$PROJECT_DIR$/src/Components/Nav" />
+      <recent name="$PROJECT_DIR$/src/Components/Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Profile/Profileinfo" />
+      <recent name="$PROJECT_DIR$/src/Components/Dialogs" />
+      <recent name="$PROJECT_DIR$/src/Components/Settings" />
+      <recent name="$PROJECT_DIR$/src/Components/News" />
+      <recent name="$PROJECT_DIR$/src/Components/Music" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f094f14-a82f-4bcd-88b9-9f58ce127a58" name="Default Changelist" comment="" />
+      <created>1582781594634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582781594634</updated>
+      <workItem from="1582781612443" duration="432000" />
+      <workItem from="1582782124373" duration="1126000" />
+      <workItem from="1583000179789" duration="14214000" />
+      <workItem from="1584195803898" duration="8899000" />
+      <workItem from="1584219252951" duration="7456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="91" width="800" height="677" key="#ESLint" timestamp="1583015211035">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="67" y="91" width="800" height="677" key="#ESLint/67.27.1293.741@67.27.1293.741" timestamp="1583015211035" />
+    <state x="446" y="146" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583000292280">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="446" y="146" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1293.741@67.27.1293.741" timestamp="1583000292280" />
+    <state x="155" y="27" key="SettingsEditor" timestamp="1582782224608">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="155" y="27" key="SettingsEditor/67.27.1293.741@67.27.1293.741" timestamp="1582782224608" />
+    <state x="435" y="266" width="695" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582781709062">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="435" y="266" width="695" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog/67.27.1293.741@67.27.1293.741" timestamp="1582781709062" />
+    <state x="452" y="279" key="run.anything.popup" timestamp="1583005416365">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="452" y="279" key="run.anything.popup/67.27.1293.741@67.27.1293.741" timestamp="1583005416365" />
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584203084695">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1293.741@67.27.1293.741" timestamp="1584203084695" />
+  </component>
+</project>

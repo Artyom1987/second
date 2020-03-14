@@ -1,0 +1,19 @@
+
+.content{
+        grid-area: n;
+        background-color: lightseagreen;
+        padding: 15px;
+
+}
+.nav {
+        color: white;
+        text-decoration: none;
+        margin: 25px;
+}
+
+.navpadding{
+        padding-top: 10px;
+}
+.activelink{
+        color: #80067c;
+}
