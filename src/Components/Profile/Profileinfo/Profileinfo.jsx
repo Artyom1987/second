@@ -11,8 +11,9 @@ const Profileinfo = () => {
         </div>
         <div>
             <img className={classes.fotoclient} src="https://img.moyo.ua/img/products/2346/64_600.png" alt="cot"/>
-            <p>description</p>
+            <span>Описание</span>
         </div>
+
 
 
     </div>
